@@ -1,0 +1,6 @@
+﻿  main.cpp
+f:\isec\so2\trabalho\so2\so2_1819\so2_1819_serv\main.cpp(16): warning C4101: 'RefreshThreadHandle': unreferenced local variable
+f:\isec\so2\trabalho\so2\so2_1819\so2_1819_serv\main.cpp(15): warning C4101: 'LobbyThreadID': unreferenced local variable
+f:\isec\so2\trabalho\so2\so2_1819\so2_1819_serv\main.cpp(16): warning C4101: 'LobbyThreadHandle': unreferenced local variable
+f:\isec\so2\trabalho\so2\so2_1819\so2_1819_serv\main.cpp(15): warning C4101: 'RefreshThreadID': unreferenced local variable
+  SO2_1819_SERV.vcxproj -> F:\Isec\SO2\Trabalho\SO2\SO2_1819\Debug\SO2_1819_SERV.exe
